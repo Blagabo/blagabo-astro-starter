@@ -5,7 +5,7 @@
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 ```sh
-npm create astro@latest -- --template basics
+bunx create-astro@latest --template blagabo/blagabo-astro-starter
 ```
 
 ## Features
